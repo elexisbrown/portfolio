@@ -7,9 +7,9 @@ body{
 }
 
 :root{
-    --color-primary: #000000;
+    --color-primary: #9e3055;
     --color-secondary: #ffffff;
-    --color-border: #ffffff34;
+    --color-border: #9db0d66d;
     --font-staat: 'Staatliches', cursive;
     --font-os:  'Oswald', sans-serif;
     --font-ram: 'Rambla', sans-serif;
@@ -93,7 +93,7 @@ body{
 
 
 .site-banner .banner-area{
-    background: url(https://images.unsplash.com/photo-1468608374703-abdfab03d1bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80) no-repeat;
+    background: rgb(247, 206, 233);
     background-size: cover;
     width: 100%;
     height: 100vh;
