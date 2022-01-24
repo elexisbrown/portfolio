@@ -4,6 +4,7 @@
 body{
     margin: 0;
     padding: 0;
+    background-color: #f7cee9;
 }
 
 :root{
@@ -93,7 +94,7 @@ body{
 
 
 .site-banner .banner-area{
-    background: rgb(247, 206, 233);
+    background: #f7cee9;
     background-size: cover;
     width: 100%;
     height: 100vh;
