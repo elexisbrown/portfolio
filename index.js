@@ -24,4 +24,4 @@ function toggle_onclick($win, $navbar, width){
     }
 }
 
-
+document.body.className = "visible";

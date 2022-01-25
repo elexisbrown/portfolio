@@ -119,6 +119,40 @@ body{
     background-position: 40% 0;
 }
 
+#skills {
+    opacity: 0;
+}
+
+#education {
+    opacity: 0;
+}
+
+#projects {
+opacity: 0;
+}
+
+#experience {
+ opacity: 0;
+}
+.hidden {
+    opacity: 0;
+}
+
+#resume {
+    opacity: 0;
+}
+
+#resume {
+    opacity: 0;
+}
+
+#contact {
+    opacity: 0;
+}
+.visible {
+    opacity: 1;
+    transition: opacity 1s ease-out;
+}
 
 @media screen and (min-width: 768px){
     .toggle-button{
