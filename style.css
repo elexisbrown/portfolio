@@ -117,8 +117,8 @@ body{
     height: 200px;
     border-radius: 50%;
     margin: auto;
-    background: url(./assets/about.jpg) no-repeat;
-    background-size: 200%;
+    background: url(https://github.com/elexisbrown/portfolio/blob/master/image/the.png?raw=true) no-repeat;
+    background-size: 100%;
     background-position: 40% 0;
 }
 
