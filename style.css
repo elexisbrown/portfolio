@@ -5,8 +5,11 @@ body{
     margin: 0;
     padding: 0;
     background-color: #f7cee9;
+  
 }
-
+.hidden {
+    opacity: 0;
+}
 :root{
     --color-primary: #9e3055;
     --color-secondary: #ffffff;
@@ -119,40 +122,19 @@ body{
     background-position: 40% 0;
 }
 
-#skills {
-    opacity: 0;
-}
-
-#education {
-    opacity: 0;
-}
-
-#projects {
-opacity: 0;
-}
-
-#experience {
- opacity: 0;
-}
-.hidden {
-    opacity: 0;
-}
-
-#resume {
-    opacity: 0;
-}
-
-#resume {
-    opacity: 0;
-}
-
-#contact {
-    opacity: 0;
-}
 .visible {
     opacity: 1;
     transition: opacity 1s ease-out;
 }
+
+ #skills {
+ /* margin-top: -20px */
+
+ }
+
+ html {
+    scroll-behavior: smooth;
+  }
 
 @media screen and (min-width: 768px){
     .toggle-button{
